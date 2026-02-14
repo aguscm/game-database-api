@@ -76,12 +76,6 @@ PUT /games/540
 }
 ```
 
-## Postman Collection
-
-A Postman collection is available: `Game_Database_API.postman_collection.json`
-
-Import it into Postman to test all endpoints with pre-configured requests.
-
 ## Technologies
 
 - Node.js
